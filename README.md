@@ -1,7 +1,6 @@
 # Vaccination_Operation_II
 
 Second version. STL, linked lists, templates, and design patterns are used. Dynamic allocations have been replaced by variables and data structures.
-
 Partial description of the system:
 
 ![1](https://user-images.githubusercontent.com/81565589/177107514-5e3df6c2-06b4-42ab-b289-563a774b83f0.PNG)
