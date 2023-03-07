@@ -1,0 +1,50 @@
+﻿  Appointment.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+  Clinic.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Clinic.cpp(54,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Clinic.cpp(61,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MedicalWorker.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\MedicalWorker.cpp(86,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  VaccinationOperation.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\VaccinationOperation.cpp(461,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\VaccinationOperation.cpp(467,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\VaccinationOperation.cpp(473,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Vaccinee.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\LinkedList.h(44,1): warning C4312: 'type cast': conversion from 'T' to 'void *' of greater size
+          with
+          [
+              T=int
+          ]
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Vaccinee.cpp(86): message : see reference to function template instantiation 'LinkedList<Appointment *>::Node *LinkedList<Appointment *>::search<int>(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Vaccinee.cpp(86): message : see reference to function template instantiation 'LinkedList<Appointment *>::Node *LinkedList<Appointment *>::search<int>(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  VaccineeWorker.cpp
+  main.cpp
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(72,28): warning C4584: 'DateAdapter': base-class 'AbstractDate' is already a base-class of 'Date'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(10): message : see declaration of 'AbstractDate'
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\Date.h(18): message : see declaration of 'Date'
+  Generating Code...
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\main.cpp(267): warning C4715: 'initClinic': not all control paths return a value
+C:\Users\Temnov\Desktop\Part3\VaccinationOperation\LinkedList.h(127): warning C4715: 'LinkedList<Appointment *>::deleteNode': not all control paths return a value
+  VaccinationOperation.vcxproj -> C:\Users\Temnov\Desktop\Part3\x64\Debug\VaccinationOperation.exe
